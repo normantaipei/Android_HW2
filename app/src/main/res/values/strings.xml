@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_HW2</string>
+    <string name="too_big">太大</string>
+    <string name="too_small">太小</string>
+    <string name="right">中獎</string>
+    <string name="wait">結果</string>
+</resources>
